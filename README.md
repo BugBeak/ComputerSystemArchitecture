@@ -1,2 +1,2 @@
-# ComputerSystemArchitecture
-Lab Assignments from the CSA course
+# Computing System Architecture
+Lab Assignments from the CSA course.
